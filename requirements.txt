@@ -1,0 +1,5 @@
+google-genai 
+pydantic 
+typer 
+rich 
+pypdf
